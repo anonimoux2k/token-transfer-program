@@ -1,3 +1,3 @@
 # Token Transfer program
 
-Risein Build on Solana Cource. Project 2 - Token Transfer.
+Risein Build on Solana Course. Project 2 - Token Transfer.
